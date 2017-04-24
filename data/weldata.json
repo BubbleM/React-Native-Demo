@@ -1,0 +1,21 @@
+{
+	"data":[
+		{
+			"img":"https://a-ssl.duitang.com/uploads/item/201703/06/20170306130456_tzM8V.jpeg",
+			"title":"img1"
+		},
+		{
+			"img":"https://a-ssl.duitang.com/uploads/item/201610/17/20161017020628_UuZTk.jpeg",
+			"title":"img2"
+		},
+		{
+			"img":"https://a-ssl.duitang.com/uploads/item/201512/18/20151218094328_NJjdZ.jpeg",
+			"title":"img3"
+		}
+	],
+	"other":[
+		{
+			"title":"其他信息"
+		}
+	]
+}
